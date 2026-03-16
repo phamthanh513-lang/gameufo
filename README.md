@@ -21,4 +21,4 @@ Simple UFO shooting game developed using Java and Android Studio.
 
 ## Author
 
-Pham Thanh
+Hieu
